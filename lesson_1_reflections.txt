@@ -17,3 +17,8 @@ docs does?
     can undo and redo them and we can commit when we want.automatic saving is like
     what chages you do it'll save for every change.
 
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    if we want to use multiple files and its better to save in one commit .
+
