@@ -33,3 +33,6 @@ could break something?
     it's not a problem if the chages make big mistake or break something we can
     go back to previous version
 
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    to check the versions and commits changes applied to it
