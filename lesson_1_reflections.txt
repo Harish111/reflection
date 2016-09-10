@@ -27,3 +27,9 @@ How can you use the commands git log and git diff to view the history of files?
     git log is used to see the commits applied
     and git diff is used to see the changes applied in two commits
 
+How might using version control make you more confident to make changes that
+could break something?
+
+    it's not a problem if the chages make big mistake or break something we can
+    go back to previous version
+
